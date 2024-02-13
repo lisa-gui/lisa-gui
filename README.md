@@ -6,5 +6,7 @@ I am very new to developement but I am trying my hardest to gain skills with jav
 I am very interested in writing SVGs and have been trying very hard to learn how to optimize writing them.
 
 I also run a web server and am using it to try and learn more crucial skills.
+# Fun fact about me!
+I put lisa gui as my name after Apple's Release of Lisa in 1983
 # Contact
 Email: lisaguizlo@gmail.com
